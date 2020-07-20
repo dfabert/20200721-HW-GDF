@@ -4,6 +4,8 @@ This it the portfolio homework with three pages.
 
 There is a uniform navbar across all pages.  The only difference is that the page you are currently on is underlined.  I removed all links except for the three pages.  This is responsive and when put into a smaller mode it will stack the links on the right.  
 
+Each page also has a max width on the container, which keeps the page looking nice when it is in a widescreen format.  
+
 There is also a sticky footer with each page, with just a name.  When clicked, it will return the user to the top of the page.  
 
 For the about me, there is a grid system set up for the secondary header (where it says "about me") and the content below.  There is a bit of a hidden row with the icons on the right for all of the links.  The text below is in its own rown.  
