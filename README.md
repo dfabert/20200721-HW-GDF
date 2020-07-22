@@ -8,7 +8,7 @@ Each page also has a max width on the container, which keeps the page looking ni
 
 There is also a sticky footer with each page, with just a name.  When clicked, it will return the user to the top of the page.  
 
-For the about me, there is a grid system set up for the secondary header (where it says "about me") and the content below.  There is a bit of a hidden row with the icons on the right for all of the links.  The text below is in its own rown.  
+For the about me, there is a grid system set up for the secondary header (where it says "about me") and the content below.  There is a bit of a hidden row with the icons on the right for all of the links. All of the links for external webpages are made to open in a new tab.  The text below is in its own row.   
 
 Since I don't have a portfolio of websites just yet, I mostly used woodworking projects for this page.  I just went with the icons and removed the links.  There is a bootstrap card for each item and it is simply in a responsive grid system that collapses down to a single row when put in the view of a device.  
 
