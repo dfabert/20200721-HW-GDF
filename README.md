@@ -12,5 +12,7 @@ For the about me, there is a grid system set up for the secondary header (where 
 
 Since I don't have a portfolio of websites just yet, I mostly used woodworking projects for this page.  I just went with the icons and removed the links.  There is a bootstrap card for each item and it is simply in a responsive grid system that collapses down to a single row when put in the view of a device.  
 
-The final page is the contact page.  This is another responsive bootstrap page with a form for submitting information, a twitter feed and links to twitter, linkedin and gmail.  
+The final page is the contact page.  This is another responsive bootstrap page with a form for submitting information, a twitter feed and links to twitter, linkedin and gmail.  I purposly didn't make the last row stack the icons because it still looks nice on a device if they are lined up horizontally.  
+
+https://dfabert.github.io/20200721-HW-GDF/
 
